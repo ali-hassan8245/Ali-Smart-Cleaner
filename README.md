@@ -52,8 +52,9 @@ It helps remove temporary files, cache, and junk data to improve system performa
 ## 📂 Project Structure
 Ali-Smart-Cleaner/
 │
+
 ├── cleaner.bat
-├── cleaner_log.txt
+
 └── README.md
 
 
